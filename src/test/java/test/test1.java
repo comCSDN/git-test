@@ -11,6 +11,7 @@ public class test1 {
         System.out.println("hello gitpush");
         System.out.println("hello gitpull");
         System.out.println("hello giteepull");
+        System.out.println("hello giteepull  ee仓库修改");
 
     }
 }
