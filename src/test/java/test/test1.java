@@ -7,6 +7,7 @@ public class test1 {
         System.out.println("hello git333");
         System.out.println("hello githot-fix");
         System.out.println("hello githot-fixmaster");
+        System.out.println("hello githot-fix冲突");
 
 
     }
