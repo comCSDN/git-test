@@ -16,5 +16,6 @@ public class test1 {
         //再次修改
         //修改2
         //3
+        int a=1;
     }
 }
